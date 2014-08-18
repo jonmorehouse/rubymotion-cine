@@ -1,0 +1,2 @@
+PODS_CINEIO_IOS_HEADER_SEARCH_PATHS = ${PODS_ROOT}/boost
+PODS_CINEIO_IOS_OTHER_LDFLAGS = -framework AVFoundation -framework AudioToolbox -framework CoreAudio -framework CoreGraphics -framework CoreMedia -framework Foundation -framework MediaPlayer -framework QuartzCore -framework UIKit
